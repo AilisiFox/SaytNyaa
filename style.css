@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: rgb(197, 167, 255);
+    border-radius: 30px;
+    padding: 30px;
+
+}
+.Sayt{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: xxx-large;
+}
+header a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+h1{
+    color: rgb(111, 0, 255);
+}
+main a{
+    text-decoration: none;
+    color: rgb(111, 0, 255);
+}
+nav a{
+    text-decoration: none;
+    background-color: violet;
+    border-radius: 30px;
+    padding: 10px;
+    color: white;
+}
+nav{
+    margin: 30px;
+}
+.XACHU {
+    border-bottom: violet solid 5px;
+}
+p{
+    color: rgb(56, 0, 129);
+}
+footer{
+    background-color: violet;
+    border-radius: 30px;
+    padding: 30px;
+}
+footer p{
+    color: white;
+}
+.BAM{
+    color: violet;
+}
